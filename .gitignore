@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Node/JavaScript
+frontend/node_modules/
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# OS generados
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos generados de prueba temporal
+*_output.txt
+fix_app.py
+fix_encoding.py
+fix_imports.ps1
+final_fix.py
+final_polish.py
+comprehensive_fix.py
+senior_optimizer.py
+definitive_nexus_fix.py
