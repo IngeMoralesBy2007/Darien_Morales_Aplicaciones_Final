@@ -1460,7 +1460,7 @@ function App() {
         </div>
         <span style={{ width: 1, height: 12, background: 'rgba(255,255,255,0.08)', display: 'inline-block' }} />
         <span style={{ fontSize: 10, color: 'var(--text-secondary)', opacity: 0.5 }}>
-          Francisco Navarro &nbsp;·&nbsp; Darien Morales &nbsp;·&nbsp; Johan Rubiano
+          Darien Garcia &nbsp;·&nbsp; Johan Rubiano
         </span>
         <span style={{ width: 1, height: 12, background: 'rgba(255,255,255,0.08)', display: 'inline-block' }} />
         <span style={{ fontSize: 10, color: 'var(--text-secondary)', opacity: 0.35 }}>

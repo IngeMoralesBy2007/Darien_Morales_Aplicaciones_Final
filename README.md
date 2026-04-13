@@ -1,4 +1,4 @@
-# Francisco Navarro - Proyecto Final Aplicaciones I
+# Darien Garcia - Proyecto Final Aplicaciones I
 
 Este es el repositorio correspondiente a la entrega final de la materia Aplicaciones I.
 
